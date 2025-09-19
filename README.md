@@ -42,7 +42,7 @@ It matches candidates to **3–5 most relevant internships** based on skills, in
 ```
 
 ## ▶️ How to Run
-1. Open `recommendation_system.ipynb` in **Google Colab**
+1. Open `sih.ipynb` in **Google Colab**
 2. Run setup cells to install dependencies
 3. Run data preprocessing cells to clean and extract skills
 4. Generate embeddings (only first time)
